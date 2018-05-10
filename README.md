@@ -1,6 +1,6 @@
 ### Sokoban
 
-这个是一个基于java开发的推箱子的游戏demo 
+这个是一个基于java开发的推箱子游戏，我用了一种比较笨的写法，所以代码显得很臃肿。
 
 #### 项目列表
 <img src="https://github.com/MrRice1202/Sokoban/blob/master/doc/2018-05-10_163718.png"/>
