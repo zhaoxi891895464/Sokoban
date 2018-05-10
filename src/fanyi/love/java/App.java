@@ -4,7 +4,7 @@ package fanyi.love.java;
 public class App {
 
 	public static void main(String[] args) {
-		new MainFrame2();
+		new MainFrame4();
 
 	}
 
